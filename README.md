@@ -43,13 +43,13 @@ Busco uma oportunidade de estágio para aplicar meus conhecimentos em <strong>En
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
   <img width="12" />
-  <img src="https://dashboardicons.com/icons/n8n" height="40" alt="n8n logo" />
+  <img src="https://cdn.simpleicons.org/n8n/FF6584" height="40" alt="n8n logo" />
 </div>
 
 ###
 
 <div align="left">
-  <a href="[LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jeferson-junior-as/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jeferson-junior-as/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:jeffjr007z@gmail.com" target="_blank">
