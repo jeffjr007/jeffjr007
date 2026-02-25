@@ -1,22 +1,26 @@
 <h1 align="left">Olá, eu sou Jeferson Junior! 👋</h1>
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
+<h2 align="left">🚀 Sobre mim</h2>
 
 <p align="left">
-Me chamo Jeferson Junior, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> 🎓.
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> 🎓, com foco em <strong>Desenvolvimento Full Stack, Automação e Agentes de Inteligência Artificial</strong>.
 <br><br>
-Minha jornada começou no desenvolvimento web clássico, mas hoje meu foco é unir a programação (Code) com a agilidade da <strong>Automação e Inteligência Artificial</strong> (Low-Code).
+Minha base começou no desenvolvimento web tradicional, evoluindo para a construção de aplicações <strong>Full Stack modernas</strong> com integração de APIs, banco de dados e boas práticas de engenharia de software.
 <br><br>
-Busco uma oportunidade de estágio para aplicar meus conhecimentos em <strong>Engenharia de Software e Agentes de IA</strong>, criando soluções que resolvem problemas reais e geram valor. Estou sempre estudando novas tecnologias e pronto para contribuir com times de alta performance 🚀.
+Hoje meu diferencial está na criação de <strong>automações inteligentes com n8n</strong> e no desenvolvimento de <strong>Agentes de IA</strong>, conectando modelos de linguagem, fluxos automatizados e sistemas web para resolver problemas reais de negócio.
+<br><br>
+Busco uma oportunidade de estágio onde eu possa atuar com <strong>Engenharia de Software, IA aplicada e automação de processos</strong>, contribuindo com soluções escaláveis e orientadas a resultados 🚀.
 </p>
 
-###
+<h2 align="left">🧠 Especialidades</h2>
 
-<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+<ul>
+  <li>💻 Desenvolvimento <strong>Full Stack</strong> (Frontend + Backend)</li>
+  <li>🤖 Criação de <strong>Agentes de IA</strong> e integrações com LLMs</li>
+  <li>🔄 Automação de processos com <strong>n8n</strong></li>
+  <li>🔗 Integração de APIs e bancos de dados</li>
+  <li>⚙️ Arquitetura de aplicações web modernas</li>
+</ul>
 
 ###
 
